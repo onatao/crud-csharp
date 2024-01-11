@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VgCFnApxV7bVQzgBOc1a/XMfR63Tg7rSGQPet1w39eKIeWI3j1QiTVJWp7Vt8pCh6gmzMN2Wt7y2m3NsWteAoA==",
+  "dgSpecHash": "R2PPYpf9X5ddLzR6YrymzalFSdBsyMF0Z8WB0pLQ6DcvsCMJ4h4fODruKFIVUhTSVisXUEMQuRtXrYf2YwfS4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\natha\\OneDrive\\Documentos\\dev\\crud-csharp\\ApiCrud\\ApiCrud.csproj",
+  "projectFilePath": "C:\\Users\\natha\\OneDrive\\Documentos\\dev\\crud-csharp\\ApiCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\natha\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\natha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

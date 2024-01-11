@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natha\\OneDrive\\Documentos\\dev\\crud-csharp\\ApiCrud\\ApiCrud.csproj",
+      "projectUniqueName": "C:\\Users\\natha\\OneDrive\\Documentos\\dev\\crud-csharp\\ApiCrud.csproj",
       "projectName": "ApiCrud",
-      "projectPath": "C:\\Users\\natha\\OneDrive\\Documentos\\dev\\crud-csharp\\ApiCrud\\ApiCrud.csproj",
+      "projectPath": "C:\\Users\\natha\\OneDrive\\Documentos\\dev\\crud-csharp\\ApiCrud.csproj",
       "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natha\\OneDrive\\Documentos\\dev\\crud-csharp\\ApiCrud\\obj\\",
+      "outputPath": "C:\\Users\\natha\\OneDrive\\Documentos\\dev\\crud-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
