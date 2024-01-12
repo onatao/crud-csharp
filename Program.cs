@@ -1,3 +1,4 @@
+using ApiCrud.Data;
 using ApiCrud.Students;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<AppDbContext>();
 
 var app = builder.Build();
 
@@ -19,7 +21,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 // setting endpoints
-StudentEndpoint.AddEndpointStudent(app);
+//StudentEndpoint.AddEndpointStudent(app);
+app.AddEndpointStudent();
 
 app.Run();
 
